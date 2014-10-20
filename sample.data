@@ -1,18 +1,7 @@
-$VAR1 = {
-  '00142' => {
-      cityid      => 'socal',
-      age_group   => 'youth',
-  },
-  '00138' => {
-      cityid      => 'socal',
-      age_group   => 'adult',
-  },
-  '00011' => {
-      cityid      => 'ny',
-      age_group   => 'youth',
-  },
-  '00009' => {
-      cityid      => 'ny',
-      age_group   => 'adult',
-  },
-};
+{
+  "service1":"true",
+  "service2":"true",
+  "service3":"true",
+  "service4":"false",
+  "service5":"true"
+}
